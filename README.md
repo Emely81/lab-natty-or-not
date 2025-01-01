@@ -7,7 +7,7 @@ Esse E-book de 3 páginas apresenta como é possível e fácil usar as IAs Gener
 ## 🤖 Tecnologias Utilizadas
 - IA Generativa ChatGPT para roteirização;
 - IA Generativa Leonardo AI para criar a arte visual do e-book;
-- Ferramenta Libre Office para edição.
+- Ferramenta Power Point para edição.
 
 ## 🧐 Processo de Criação
 Utilizei o "ChatGPT" para revisar minha pesquisa sobre o GitHub e IAs Generativas, estruturar o conteúdo e refinar minhas ideias. O "Leonardo AI" foi usado para gerar imagens exclusivas para o nosso e-book. Para concluir, a montagem final foi feita no Libre Office, por ser uma ferramenta open-source para edição de texto.
